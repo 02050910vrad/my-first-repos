@@ -1,2 +1,2 @@
-# my-first-repos
-„Primul meu repository GitHub pentru exersare.”
+# my-first-repo
+This is my first repository. Wish me luck :)
